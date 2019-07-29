@@ -81,6 +81,11 @@ contributions:
       url: "https://github.com/QTimort"
     url: "http://htmlpreview.github.io/?https://github.com/QTimort/coffee-cup-light-rays/blob/master/dist/index.html"
     source: "https://github.com/QTimort/coffee-cup-caustic-reflections"
+  - title: "Multiplication Modulo Lollipop"
+    author:
+      name: "Martin Vivian"
+    url: "https://editor.p5js.org/martinv/full/JrWErBSeI"
+    source: "https://editor.p5js.org/martinv/sketches/JrWErBSeI"
 ---
 
 In this video, I visualize the "mathematical heart" Cardioid using times tables calculations.
